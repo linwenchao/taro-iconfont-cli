@@ -14,7 +14,6 @@
     "@tarojs/taro": "^3.0.8"
   },
   "dependencies": {
-    "colors": "1.4.0",
     "fs-extra": "^8.1.0",
     "iconfont-parser": "^1.0.0",
     "mini-program-iconfont-cli": "0.6.1",
@@ -39,4 +38,7 @@
     "ts-node": "^8.4.1",
     "typescript": "^3.6.3"
   }
+  "resolutions": {
+    "colors": "1.4.0"
+  },
 }
